@@ -3,6 +3,9 @@
 Phishing<br>
 https://medium.com/purple-team/replicate-any-websites-with-httrack-and-harvest-credentials-using-social-engineering-toolkit-6107f6a0149f <br>
 https://gist.github.com/ozzi-/2f123483f76533ee82e3736c4fec1a4f <br>
+https://github.com/An0nUD4Y/blackeye <br>
+
+Red Teaming<br>
 https://github.com/infosecn1nja/Red-Teaming-Toolkit <br>
 
 
