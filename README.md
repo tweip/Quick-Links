@@ -20,8 +20,9 @@ https://nasbench.medium.com/hunting-malware-with-windows-sysinternals-process-mo
 
 Digital Forensics <br>
 https://www.hackers-arise.com/forensics <br>
-https://cloudyforensics.medium.com/log2timeline-tutorial-d769994c3570<br>
-https://github.com/qulle/activity-timeline
+https://cloudyforensics.medium.com/log2timeline-tutorial-d769994c3570 <br>
+https://github.com/qulle/activity-timeline <br>
+https://blog.ecapuano.com/p/my-favorite-tools-and-resources
 
 CTF <br>
 https://ctf101.org/ <br>
