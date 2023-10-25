@@ -8,6 +8,7 @@ https://github.com/An0nUD4Y/blackeye <br>
 Red Teaming<br>
 https://github.com/infosecn1nja/Red-Teaming-Toolkit <br>
 https://github.com/redcanaryco/atomic-red-team <br>
+https://improsec.com/tech-blog/read2own<br>
 
 purple Team<br>
 https://www.youtube.com/watch?v=eXW3Xm4JXeA <br>
